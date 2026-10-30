@@ -33,17 +33,6 @@ A passionate learner and aspiring DevOps engineer focused on building practical,
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
-## GitHub Stats
-
-![Yadnyesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yadnyesh-Darekar&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yadnyesh-Darekar&layout=compact&theme=tokyonight)
-
-## Featured Repositories
-
-- [new](https://github.com/Yadnyesh-Darekar/new)
-- [test](https://github.com/Yadnyesh-Darekar/test)
-
 ## Philosophy
 
 > Build simple systems, automate repetitive work, and keep learning every day.
