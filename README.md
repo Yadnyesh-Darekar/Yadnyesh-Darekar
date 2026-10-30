@@ -1,9 +1,49 @@
-### Hi there 👋
+# Hi, I'm Yadnyesh Darekar 👋
 
-- 👋 Hi, I'm Yadnyesh
-- ⛰️ Loves to trekking
-- 🔭 I’m currently working on DevOps tools and technology’s 
-- 🌱 I’m currently learning Docker and Kubernetes
-- 👯 I’m looking to collaborate on simplifying learning of technology's
-- 📫 You can to reach out to me at yadnyeshdarekar97@gmail.com or [https://in.linkedin.com/in/yadnyesh-darekar/](https://in.linkedin.com/in/yadnyesh-darekar-55635a200?original_referer=https%3A%2F%2Fwww.google.com%2F)
+A passionate learner and aspiring DevOps engineer focused on building practical, automation-first solutions.
 
+## About Me
+
+- 👨‍💻 Interested in DevOps, cloud infrastructure, automation, and Linux-based systems
+- 🌱 Currently learning Docker, Kubernetes, CI/CD, and cloud-native tooling
+- 🚀 Exploring ways to simplify technology workflows and improve developer productivity
+- 🤝 Open to collaboration on DevOps, automation, and learning-focused projects
+- 📫 Reach me at: yadnyeshdarekar97@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/yadnyesh-darekar/
+
+## Current Focus
+
+- DevOps fundamentals and best practices
+- Docker and container orchestration
+- Kubernetes and cloud infrastructure
+- Continuous Integration and Deployment pipelines
+- Automation for deployment and environment management
+
+## Tech Stack
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Tools & Platforms
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+## GitHub Stats
+
+![Yadnyesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yadnyesh-Darekar&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yadnyesh-Darekar&layout=compact&theme=tokyonight)
+
+## Featured Repositories
+
+- [new](https://github.com/Yadnyesh-Darekar/new)
+- [test](https://github.com/Yadnyesh-Darekar/test)
+
+## Philosophy
+
+> Build simple systems, automate repetitive work, and keep learning every day.
